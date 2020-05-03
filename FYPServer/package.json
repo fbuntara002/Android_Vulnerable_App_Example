@@ -1,0 +1,18 @@
+{
+  "name": "fyp_server",
+  "version": "1.0.0",
+  "description": "FYP server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Fuhank Buntara",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "moment": "^2.22.0",
+    "request": "^2.85.0"
+  }
+}
